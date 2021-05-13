@@ -1,0 +1,73 @@
+Northern	Afula	106	04.6520355
+Northern	Akko	106	04.9956063
+Southern	Arad	106	08.9951706
+Yosh	Ariel	106	03.9368844
+Southern	Ashdod	106	08.8545003
+Southern	Ashkelon	106	08.6792380
+Haifa	Baqa al-Gharbiyye		 04.9802101
+TelAviv	Bat Yam	107	03.5558555
+Southern	Beer Sheva	106		08.6463777
+Northern	Beit Shean	106	04.6489400
+Jerusalem	Beit Shemesh	106	02.9909999
+Yosh	Betar Illit	106	02.5888111
+TelAviv	Bnei Berak	106	03.5776555
+Southern	Dimona	106	08.6563111
+Southern	Eilat	106	08.6367112
+Central	Elad		03.9078100
+TelAviv	Givatayim	107	03.5722217
+Haifa	Hadera	106	04.6303311
+Haifa	Haifa	106	04.8356000
+Haifa	Harish		04.6186000
+TelAviv	Herzliya	106	09.9591469
+Central	Hod HaSharon	108		09.7418002
+TelAviv	Holon	106	03.5027222
+Jerusalem	Jerusalem	106	02.6296666
+Northern	Karmiel	106	04.9085555
+Central	Kfar Sava	106		09.7649111
+Haifa	Kiryat Ata	109		04.8478478
+Haifa	Kiryat Bialik	108	04.8780878
+Southern	Kiryat Gat	106	08.6874511
+Southern	Kiryat Malachi	106	08.8500888
+Haifa	Kiryat Motzkin	107	04.8780202
+TelAviv	Kiryat Ono	106	03.5311111
+Northern	Kiryat Shemone	106	04.6908444
+Haifa	Kiryat Yam		04.8789700
+Central	Lod	106	08.9279028
+Yosh	Maale Adumim	107	02.5418888
+Northern	Maalot Tarshiha	106	04.9578888
+Northern	Migdal HaEmek	106	04.6507777
+Central	Modiin	106	08.9726000
+Northern	Nahariya		04.9879811
+Northern	Nazareth	106	04.6459200
+Central	Nes Ziona	106	 08.9383838
+Haifa	Nesher	106	04.8215111
+Central	Netanya	106	09.8603131
+Southern	Netivot	106	08.9938701
+Northern	Nof Hagalil	107	04.6478888
+Southern	Ofakim	106	08.9923911
+Haifa	Or Akiva	106	04.6108800
+TelAviv	Or Yehuda	106	03.5335758
+Central	Petah Tikva	106	03.9052272
+Central	Qalansawe		09.8780388
+Central	Raanana	*9107	09.7610610
+Southern	Rahat		08.9914811
+TelAviv	Ramat Hasharon	106	 03.5483888
+TelAviv	Ramat-Gan	109		03.6753555
+Central	Ramla	108	08.9771795
+Central	Rehovot	106	08.9392222
+Central	Rishon Lezion	106	03.9682362
+Central	Rosh Ha'ayin	106	03.9385656
+Northern	Sakhnin		04.6788888
+Southern	Sderot	*8516	08.6620222
+Northern	Shefaram		04.9059111
+Central	Taibeh		09.7991131
+Northern	Tamra		04.9948228
+TelAviv	Tel Aviv	106	03.5218438
+Northern	Tiberias	106	04.6739555
+Central	Tira		09.7938432
+Haifa	Tirat Carmel	106	04.8547000
+Northern	Tsfat (Safed)	106	04.6927402
+Haifa	Umm al-Fahm	106	04.6119000
+Central	Yavne	106	08.9433300
+Central	Yehud-Monosson	106	03.5391212
+Northern	Yokneam	106	04.9596000
