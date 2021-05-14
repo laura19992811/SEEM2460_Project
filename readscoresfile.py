@@ -14,7 +14,7 @@ for line in file:
         maxval = max(adate)
         if len(str(adate[1])) != 2:
             adate[1] = '0'+str(adate[1])
-        if adate.index(maxval) == 2:
+        if adate.index(maxval) == 2:    #2021-02-05
             line[0] = str(adate[2]) + "-" + str(adate[1]) + "-" + str(adate[0])
 
         if line[0] not in dates:
